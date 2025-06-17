@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\bin\Debug\netstandard2.0\Primera_Tarea.deps.json
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\bin\Debug\netstandard2.0\Primera_Tarea.dll
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\bin\Debug\netstandard2.0\ref\Primera_Tarea.dll
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\bin\Debug\netstandard2.0\Primera_Tarea.pdb
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.dll
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\refint\Primera_Tarea.dll
+C:\Users\Admin\source\repos\Primera_Tarea\Primera_Tarea\Primera_Tarea\obj\Debug\netstandard2.0\Primera_Tarea.pdb
